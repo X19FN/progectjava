@@ -1,15 +1,8 @@
 "use strict";
 
-// function message(text) {
-//     console.log(text);
-//     let num = 10;
-//
-// }
-// message("Hello");
-// console.log(num);
+const str = "texqwet 213 two";
+console.log(str.substr(7,20));
 
-function calc (a,b) {
-    return (a + b);
-}
 
-console.log(calc(1.15,2.30));
+const num = 12.1;
+console.log(Math.round(num));
