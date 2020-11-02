@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jdJ2Nio2iClz8lgCR0HUTjEKFc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -63,11 +66,36 @@
       <workItem from="1604127829980" duration="5170000" />
       <workItem from="1604148144875" duration="1025000" />
       <workItem from="1604308164643" duration="2461000" />
+      <workItem from="1604311653716" duration="302000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="618" y="65" key="#Inspections" timestamp="1604132958554">
@@ -78,6 +106,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="821" y="176" key="#Web_Browsers/0.0.1366.768@0.0.1366.768" timestamp="1604131796329" />
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog" timestamp="1604311994137">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1604311994137" />
     <state x="804" y="142" key="FileChooserDialogImpl" timestamp="1604131787112">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -146,5 +178,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="659" height="238" key="GridCell.Tab.3.right/0.0.1366.768@0.0.1366.768" timestamp="1604133830283" />
+    <state x="500" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604311889915">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="500" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1604311889915" />
   </component>
 </project>
