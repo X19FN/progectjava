@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce242606-170e-4200-bc02-db4aae7c3763" name="Default Changelist" comment="">
+    <list default="true" id="ce242606-170e-4200-bc02-db4aae7c3763" name="Default Changelist" comment="modded file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +88,17 @@
       <workItem from="1604308164643" duration="2461000" />
       <workItem from="1604311053361" duration="246000" />
       <workItem from="1604312301644" duration="79000" />
-      <workItem from="1604312568339" duration="37000" />
+      <workItem from="1604312568339" duration="113000" />
+      <workItem from="1604312717407" duration="20000" />
     </task>
+    <task id="LOCAL-00001" summary="modded file">
+      <created>1604312669900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604312669900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +115,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modded file" />
+    <option name="LAST_COMMIT_MESSAGE" value="modded file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="618" y="65" key="#Inspections" timestamp="1604132958554">
