@@ -86,6 +86,7 @@
       <workItem from="1604127829980" duration="5170000" />
       <workItem from="1604148144875" duration="1025000" />
       <workItem from="1604308164643" duration="2461000" />
+<<<<<<< HEAD
       <workItem from="1604311053361" duration="246000" />
       <workItem from="1604312301644" duration="79000" />
       <workItem from="1604312568339" duration="113000" />
@@ -97,6 +98,13 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1604312669900</updated>
+=======
+<<<<<<< HEAD
+      <workItem from="1604311653716" duration="302000" />
+=======
+      <workItem from="1604311053361" duration="16000" />
+>>>>>>> origin/main
+>>>>>>> 3eba6c1090141a56b8abe1df63668a106d4d641a
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -109,17 +117,36 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+>>>>>>> 3eba6c1090141a56b8abe1df63668a106d4d641a
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modded file" />
     <option name="LAST_COMMIT_MESSAGE" value="modded file" />
   </component>
+=======
+>>>>>>> 3eba6c1090141a56b8abe1df63668a106d4d641a
   <component name="WindowStateProjectService">
     <state x="618" y="65" key="#Inspections" timestamp="1604132958554">
       <screen x="0" y="0" width="1366" height="768" />
@@ -129,7 +156,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="821" y="176" key="#Web_Browsers/0.0.1366.768@0.0.1366.768" timestamp="1604131796329" />
+<<<<<<< HEAD
     <state x="804" y="142" key="FileChooserDialogImpl" timestamp="1604312379373">
+=======
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog" timestamp="1604311994137">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1604311994137" />
+    <state x="804" y="142" key="FileChooserDialogImpl" timestamp="1604131787112">
+>>>>>>> 3eba6c1090141a56b8abe1df63668a106d4d641a
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="804" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1604312379373" />
@@ -197,5 +232,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="659" height="238" key="GridCell.Tab.3.right/0.0.1366.768@0.0.1366.768" timestamp="1604133830283" />
+    <state x="500" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604311889915">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="500" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1604311889915" />
   </component>
 </project>
